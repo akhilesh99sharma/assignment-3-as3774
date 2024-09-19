@@ -1,0 +1,14 @@
+---
+title: "Akhilesh"
+author: "Akhilesh"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+1. Hello, My name is Akhilesh Sharma
+2. I am a graduate student with the department of Soil and Crop Sciences.
+3. I am working on detectin and management of weeds through precision agriculture.

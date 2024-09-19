@@ -1,0 +1,23 @@
+---
+title: "Home"
+author: "Akhilesh"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R project
+
+This project is owned by
+
+Akhilesh Sharma (https://github.com/akhilesh99sharma)
+
+Stephen bredin(https://github.com/slimyscalysteph)
+
+
+
+![Farm of future](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/8749b5d7-23c0-4416-965c-faaf4922f165/63d20418-0cc9-48d8-b5cf-95a40a8dd57f_1792x1024.jpg?t=1716722268)
+
+
